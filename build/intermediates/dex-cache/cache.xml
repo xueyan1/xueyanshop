@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.12.0_5803c4f52034c807cc6038bb678ca3946a885f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.12.0_bf02d56781a7a30d07a4bf60e039b2acdfdefd8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.12.0_a0b120613cb547bde7f2401bdbd8ad0dd88a9463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.jiechic.library-xUtils-2.6.14_d03c8aa125598b91aa9f4b15f173f2b72d0efb36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d06df952e398309abe114a403650fc37895c06fd">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\instant-run_9af51c60f13b632558fbc3ed028bf44848823d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_876d93736d82710355af2faa9d771f22c45ae19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.12.0_56b35487b5f7be2f7c3db9e42c56d5793d516d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279847192a8f88159621326f6d62b5c9a206222d">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp-0.12.0_e6a6313f283994c2dc60d6be467c8e63b017e32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_ed74995c1e4100d99dbb0d5fd12bb7a8a110a461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_81a32923c01d4437137c6d5f6a9cadeda5849e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_2aa86e7ed1cfc1a8c518738304af7ec78e9bff7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82d70054a64be4113c7cdf65a865886270ecb202">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ef48fe35cf48fdcc30a01ea6ccc4e0c204b9c595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_055a8d97cfc0ef6920ccbaac292fa6c2b789467a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_7262a521d7656f6caff17718fdcae994f1da3cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_9df209e7f6a4b0640d0c91a19ffc1308d7ee34ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.github.d-max-spots-dialog-0.4_c1d6977bab086d0b4019aa187872daa0e9a32f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_a0fdfff91e2c70888cc2c8e5e015f9f924fe196c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.cjj.materialrefeshlayout-library-1.3.0_ec60ac2c59617cf0715e5ce001c9d8010c69e358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.4\f2c0782541a970b3c15f5e742999ca264b34d0bd\okhttp-2.7.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2c0782541a970b3c15f5e742999ca264b34d0bd">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\okhttp-2.7.4_8c1ab3aeeb52500b65a5938adf2910d0f1f023bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.12.0_d80cbea4ed790ef7e09f1c6eb712ae5639cafdc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspece\cniao5-shop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\workspece\cniao5-shop-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_c451643394ba744197a881091f12d996819d3715.jar" />
+    </item>
+
+</items>
