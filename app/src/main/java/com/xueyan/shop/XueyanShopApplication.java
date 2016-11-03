@@ -5,7 +5,7 @@ import android.app.Application;
 import com.facebook.drawee.backends.pipeline.Fresco;
 
 
-public class CniaoApplication extends Application {
+public class XueyanShopApplication extends Application {
 
     @Override
     public void onCreate() {
